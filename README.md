@@ -95,7 +95,6 @@ sudo apt install build-essential sqlite3 libsqlite3-dev memcached libmemcached-d
 
 - IP addresses, ports, and database paths are always supplied through a config file, CLI argument, or environment variable — never hardcoded.
 - Databases are seeded from the provided data files via each part's init script (never from hardcoded values in the source).
-- A short demo video accompanies the submission, showing each part being built, run, and tested end-to-end.
 
 ## Author
 
